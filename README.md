@@ -1,2 +1,2 @@
-# metreology
+# metrology
 uncertainty calcularity
